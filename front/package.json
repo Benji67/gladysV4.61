@@ -40,7 +40,7 @@
     "classnames": "^2.2.6",
     "cropperjs": "^1.5.1",
     "date-fns": "^2.10.0",
-    "dayjs": "^1.8.14",
+    "dayjs": "^1.11.13",
     "debounce": "^1.2.0",
     "dotenv": "^6.2.0",
     "get-value": "^3.0.1",
